@@ -17,7 +17,7 @@ class Main extends React.Component {
     saveItem = async () => {
         const {items, itemInput} = this.state;
         const uniqueId = new Date().getTime();
-        if (itemInput.length < 3) {
+        if (itemInput.trim().length < 3) {
             alert('Item title should be at least 3 symbols...');
             return;
         }
@@ -62,7 +62,7 @@ class Main extends React.Component {
     saveComment = async (event) => {
         const {selectedItem: {id, comments}, commentInput} = this.state;
         if (event.ctrlKey && event.keyCode === 13) {
-            if (commentInput.length < 3) {
+            if (commentInput.trim().length < 3) {
                 alert('Comment should be at least 3 symbols...');
                 return;
             }
