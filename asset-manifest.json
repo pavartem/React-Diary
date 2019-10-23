@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/React-Diary/static/css/main.2de4b36c.chunk.css",
-    "main.js": "/React-Diary/static/js/main.b6e10564.chunk.js",
-    "main.js.map": "/React-Diary/static/js/main.b6e10564.chunk.js.map",
+    "main.js": "/React-Diary/static/js/main.fb03fa42.chunk.js",
+    "main.js.map": "/React-Diary/static/js/main.fb03fa42.chunk.js.map",
     "runtime-main.js": "/React-Diary/static/js/runtime-main.c96f9a0d.js",
     "runtime-main.js.map": "/React-Diary/static/js/runtime-main.c96f9a0d.js.map",
     "static/js/2.fd4524a0.chunk.js": "/React-Diary/static/js/2.fd4524a0.chunk.js",
     "static/js/2.fd4524a0.chunk.js.map": "/React-Diary/static/js/2.fd4524a0.chunk.js.map",
     "index.html": "/React-Diary/index.html",
-    "precache-manifest.ae8fe51ceae6d5e1e7ac861fac7b8efe.js": "/React-Diary/precache-manifest.ae8fe51ceae6d5e1e7ac861fac7b8efe.js",
+    "precache-manifest.8b8dd819f7e37c8eef39dee7bb07ebc1.js": "/React-Diary/precache-manifest.8b8dd819f7e37c8eef39dee7bb07ebc1.js",
     "service-worker.js": "/React-Diary/service-worker.js",
     "static/css/main.2de4b36c.chunk.css.map": "/React-Diary/static/css/main.2de4b36c.chunk.css.map"
   },
@@ -16,6 +16,6 @@
     "static/js/runtime-main.c96f9a0d.js",
     "static/js/2.fd4524a0.chunk.js",
     "static/css/main.2de4b36c.chunk.css",
-    "static/js/main.b6e10564.chunk.js"
+    "static/js/main.fb03fa42.chunk.js"
   ]
 }
