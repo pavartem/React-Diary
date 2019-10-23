@@ -12,7 +12,7 @@ const Item = ({item: {id, title, comments, active}, deleteItem, toggleActive}) =
             {title}
             <span className="badge badge-primary badge-pill ml-2 bg-light-green">{comments.length}</span>
         </span>
-        <button onClick={() => deleteItem(id)} className='btn btn-outline-danger'>Delete</button>
+        <button onClick={() => deleteItem(id)} className='btn btn-outline-danger align-self-center'>Delete</button>
     </li>
 );
 
